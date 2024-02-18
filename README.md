@@ -26,6 +26,8 @@
 
 -------------------------------------------------------------------------------------------
 
+<img src="IOC/captures/Capture.PNG"/>
+
 # Couche Dao
 ## Interface IDao
 ```java
